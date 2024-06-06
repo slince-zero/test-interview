@@ -1,9 +1,9 @@
-import React from 'react'
+
 
 function LeftBoard() {
   return (
-    <div>
-      
+    <div className='h-full w-60 bg-blue-600'>
+      left
     </div>
   )
 }
